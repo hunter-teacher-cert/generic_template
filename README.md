@@ -1,1 +1,4 @@
-# generic_template
+# Assignments For Curriculum Development
+## Name: 
+## Email: 
+## CUNY ID: 
